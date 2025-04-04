@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<cricket> 
+    <player> 
+        <name>Virat kohli</name> 
+        <runs>2000</runs> 
+        <wickets>100</wickets> 
+        <noofnotout>20</noofnotout> 
+    </player> 
+    <player> 
+        <name>Rohit Sharma</name> 
+        <runs>1800</runs> 
+        <wickets>60</wickets> 
+        <noofnotout>15</noofnotout> 
+    </player> 
+    <player> 
+        <name>Shubman Gill</name> 
+        <runs>1500</runs> 
+        <wickets>55</wickets> 
+        <noofnotout>25</noofnotout> 
+    </player> 
+    <player> 
+        <name>kl Rahul</name> 
+        <runs>1700</runs> 
+        <wickets>50</wickets> 
+        <noofnotout>18</noofnotout> 
+    </player> 
+    <player> 
+        <name>Mohammed shami</name> 
+        <runs>1400</runs> 
+        <wickets>80</wickets> 
+        <noofnotout>22</noofnotout>     </player> 
+    
+    <player> 
+        <name>Kuldeep yadav</name> 
+        <runs>1600</runs> 
+        <wickets>45</wickets> 
+        <noofnotout>14</noofnotout> 
+    </player> 
+	</cricket>  
